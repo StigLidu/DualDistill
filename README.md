@@ -31,9 +31,8 @@ Official implementation of **DualDistill**: A trajectory-composition distillatio
   <img src="fig/result.png" alt="Performance comparison of Agentic-R1 models" width="700">
 </div>
 
-**Agentic-R1** demonstrates significant performance gains on **DeepMath-L** and **Combinatorics300**, where both complex reasoning and tool use are crucial for success.
-
-**Agentic-R1-SD** (Self-Distilled) further enhances performance through our self-distillation approach, consistently outperforming baseline models across nearly all evaluation tasks.
+- **Agentic-R1** demonstrates significant performance gains on **DeepMath-L** and **Combinatorics300**, where both complex reasoning and tool use are crucial for success.
+- **Agentic-R1-SD** (Self-Distilled) further enhances performance through our self-distillation approach, consistently outperforming baseline models across nearly all evaluation tasks.
 
 ## Quick Start
 
