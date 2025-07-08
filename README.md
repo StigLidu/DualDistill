@@ -6,7 +6,7 @@
 Official implementation of **DualDistill**: A trajectory-composition distillation method for integrating tool use into long-chain-of-thought reasoning.
 
 > **Weihua Du, Pranjal Aggarwal, Sean Welleck, & Yiming Yang**  
-> ["Agentic-R1: Distilled Dual-Strategy Reasoning." (2025)](https://arxiv.org/abs/0000.00000)
+> ["Agentic-R1: Distilled Dual-Strategy Reasoning." (2025)](https://arxiv.org/abs/0000.00000) (coming soon)
 
 ## Key Features
 
@@ -128,8 +128,9 @@ bash script/eval_script/eval_remote_server.sh \
 
 ## ⚠️ Important Notes
 
-- **Self-Distillation Warning**: The self-distillation step requires sampling many trajectories and can be time-consuming.
 - **Code Execution Safety**: The evaluation scripts execute model-generated code locally. Only use trusted models before execution.
+- **Inference Config**: If you are using vLLM (a recent version) and encounter an error regarding the maximum context length. You may need to modify the `model_max_length` in `tokenizer_config.json`.
+- **Self-Distillation Warning**: The self-distillation step requires sampling many trajectories and can be time-consuming.
 
 ## License
 
@@ -154,12 +155,7 @@ For questions or support, please contact:
 If you find our work useful, please consider citing:
 
 ```bibtex
-@article{du2025dualdistill,
-  title={Agentic-R1: Distilled Dual-Strategy Reasoning},
-  author={Du, Weihua and Aggarwal, Pranjal and Welleck, Sean and Yang, Yiming},
-  journal={arXiv preprint arXiv:0000.00000},
-  year={2025}
-}
+coming soon
 ```
 
 ---
