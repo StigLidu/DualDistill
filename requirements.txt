@@ -1,0 +1,15 @@
+accelerate==1.8.1
+datasets==3.6.0
+huggingface_hub==0.33.1
+math_verify==0.8.0
+matplotlib==3.10.3
+openai==1.93.1
+pandas==2.3.1
+Requests==2.32.4
+thefuzz==0.22.1
+torch==2.7.0
+tqdm==4.66.4
+transformers==4.53.1
+vllm==0.9.1
+wandb==0.21.0
+numpy
