@@ -25,6 +25,13 @@ Official implementation of **DualDistill**: A trajectory-composition distillatio
 | **Training Set** | Complete training dataset with teacher trajectories | [🤗 HuggingFace](https://huggingface.co/datasets/VanishD/DualDistill) |
 | **Test Set** | Evaluation benchmarks | `dataset/test/` |
 
+## Results
+
+<div align="center">
+  <img src="fig/result.png" alt="Result of DualDistill" width="600">
+  <p><b>Agentic-R1</b> demonstrates significant gains on DeepMath-L and Combinatorics300, where both complex reasoning and tool use are crucial. Furthermore, through self-distillation, <b>Agentic-R1-SD</b> can enhance performance and outperform baselines on nearly all tasks.</p>
+</div>
+
 ## Quick Start
 
 ### Installation
