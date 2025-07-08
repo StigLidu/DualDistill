@@ -128,8 +128,8 @@ bash script/eval_script/eval_remote_server.sh \
 
 ## ⚠️ Important Notes
 
-- **Self-Distillation Warning**: The self-distillation step requires sampling many trajectories and can be time-consuming. Plan accordingly for computational resources.
-- **Code Execution Safety**: The evaluation scripts execute model-generated code locally. Only use trusted models and review generated code before execution.
+- **Self-Distillation Warning**: The self-distillation step requires sampling many trajectories and can be time-consuming.
+- **Code Execution Safety**: The evaluation scripts execute model-generated code locally. Only use trusted models before execution.
 
 ## License
 
