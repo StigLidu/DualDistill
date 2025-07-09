@@ -6,7 +6,7 @@
 Official implementation of **DualDistill**: A trajectory-composition distillation method for integrating tool use into long-chain-of-thought reasoning.
 
 > **Weihua Du, Pranjal Aggarwal, Sean Welleck, & Yiming Yang**  
-> ["Agentic-R1: Distilled Dual-Strategy Reasoning." (2025)](https://arxiv.org/abs/0000.00000) (coming soon)
+> ["Agentic-R1: Distilled Dual-Strategy Reasoning." (2025)](https://arxiv.org/abs/2507.05707)
 
 ## Key Features
 
