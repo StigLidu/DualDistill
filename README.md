@@ -1,7 +1,7 @@
 # DualDistill
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-0000.00000-b31b1b.svg)](https://arxiv.org/abs/0000.00000)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.05707-b31b1b.svg)](https://arxiv.org/abs/2507.05707)
 
 Official implementation of **DualDistill**: A trajectory-composition distillation method for integrating tool use into long-chain-of-thought reasoning.
 
@@ -164,7 +164,15 @@ For questions or support, please contact:
 If you find our work useful, please consider citing:
 
 ```bibtex
-coming soon
+@misc{du2025agenticr1distilleddualstrategyreasoning,
+      title={Agentic-R1: Distilled Dual-Strategy Reasoning}, 
+      author={Weihua Du and Pranjal Aggarwal and Sean Welleck and Yiming Yang},
+      year={2025},
+      eprint={2507.05707},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2507.05707}, 
+}
 ```
 
 ---
