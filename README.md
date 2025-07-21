@@ -128,7 +128,7 @@ bash script/eval_script/eval_remote_server.sh \
   "http://localhost:8080/v1" "agentic-r1" "dataset/test/math.json" "true" "4096"
 ```
 
-## Pre-trained Models
+## Trained Models
 
 | Model | Description | HuggingFace Link |
 |-------|-------------|------------------|
@@ -164,14 +164,11 @@ For questions or support, please contact:
 If you find our work useful, please consider citing:
 
 ```bibtex
-@misc{du2025agenticr1distilleddualstrategyreasoning,
-      title={Agentic-R1: Distilled Dual-Strategy Reasoning}, 
-      author={Weihua Du and Pranjal Aggarwal and Sean Welleck and Yiming Yang},
-      year={2025},
-      eprint={2507.05707},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2507.05707}, 
+@article{du2025agentic,
+  title={Agentic-R1: Distilled Dual-Strategy Reasoning},
+  author={Du, Weihua and Aggarwal, Pranjal and Welleck, Sean and Yang, Yiming},
+  journal={arXiv preprint arXiv:2507.05707},
+  year={2025}
 }
 ```
 
