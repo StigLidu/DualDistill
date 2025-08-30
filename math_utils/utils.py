@@ -166,8 +166,8 @@ SYSTEM_PROMPT_TPL = (
     "Do not write text outside the tags."
 )
 
-CODE_INSTRUCTION = """Meanwhile, you can use Python code to help you reasoning. The code should be enclosed within <code> </code> tags. For example, <code> code here </code>.
-A executor will run the code and provide feedback immediately after the code. The executor feedback should be enclosed within <executor> </executor> tags.
+CODE_INSTRUCTION = """Meanwhile, you can use Python code to help you reason. The code should be enclosed within <code> </code> tags. For example, <code> code here </code>.
+An executor will run the code and provide feedback immediately after the code. The executor feedback should be enclosed within <executor> </executor> tags.
 You can use the executor feedback to improve your reasoning.
 """
 
