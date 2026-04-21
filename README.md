@@ -164,10 +164,11 @@ For questions or support, please contact:
 If you find our work useful, please consider citing:
 
 ```bibtex
-@article{du2025agentic,
-  title={Agentic-R1: Distilled Dual-Strategy Reasoning},
+@inproceedings{du2025agentic,
+  title={Agentic-r1: Distilled dual-strategy reasoning},
   author={Du, Weihua and Aggarwal, Pranjal and Welleck, Sean and Yang, Yiming},
-  journal={arXiv preprint arXiv:2507.05707},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages={12040--12054},
   year={2025}
 }
 ```
